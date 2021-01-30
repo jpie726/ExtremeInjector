@@ -12,7 +12,7 @@ Official Download Mirrors
 
 Bug Reporting
 ------
-To report any bugs or issues with the injector, please create an [Issue](https://github.com/master131/ExtremeInjector/issues) on Github or report it on the appropriate forum.
+To report any bugs or issues with the injector, please create an [Issue](https://github.com/jpie726/ExtremeInjector/issues) on Github or report it on the appropriate forum.
 
 Donate
 ------
@@ -88,18 +88,18 @@ If your anti-virus detects a threat/virus when you click on it, please ignore it
 Try another injection method and see what happens. Feel free to take a screenshot or copy and paste the error message here so I can look into it. Make sure to mention what OS you are running.  
   
 **OMG, why is the injector connecting to the internet?**  
-So people can stay up to date, I've added a simple update check which [connects to GitHub](https://github.com/master131/ExtremeInjector). **It does not offer any direct links or download anything by itself**.  
+So people can stay up to date, I've added a simple update check which [connects to GitHub](https://github.com/jpie726/ExtremeInjector). **It does not offer any direct links or download anything by itself**.  
   
 **What's the Visual C++/DirectX depedency installer?**  
 **What is the exported functions feature useful for?**  
-Please refer to the [wiki entry on Github](https://github.com/master131/ExtremeInjector/wiki) for more information.  
+Please refer to the [wiki entry on Github](https://github.com/jpie726/ExtremeInjector/wiki) for more information.  
   
 **Requirements:**  
 [.NET Framework 4](https://www.microsoft.com/en-au/download/details.aspx?id=17851)  
   
 **What's new?**
 >**Changes since version 3.7.3 (10th November 2017):**
->- Fixed leaky handle from WOW64 checks ([#10](https://web.archive.org/web/20171212024927/https://github.com/master131/ExtremeInjector/issues/10))
+>- Fixed leaky handle from WOW64 checks ([#10](https://web.archive.org/web/20171212024927/https://github.com/jpie726/ExtremeInjector/issues/10))
 >
 >**Changes since version 3.7.2 (23rd October 2017):**
 >- Fixed manual map support for Windows 10 Fall Creators Update
@@ -112,7 +112,7 @@ Please refer to the [wiki entry on Github](https://github.com/master131/ExtremeI
 >- Fixed manual map and LdrpLoadDll support for Windows 10 Creators Update
 >- Fixed critical bug relating to imports resolution (issues when the same module is imported multiple times)
 >- Fixed bug that led to many handles being opened unintentionally
->- Migration of Visual C++ resources and version checking to [GitHub](https://web.archive.org/web/20171212024927/https://github.com/master131/ExtremeInjector) for more transparency
+>- Migration of Visual C++ resources and version checking to [GitHub](https://web.archive.org/web/20171212024927/https://github.com/jpie726/ExtremeInjector) for more transparency
 >
 >**Changes since version 3.6 (5th September 2015):**
 >- Fixed manual map support for Windows 8.1 (for real this time)
